@@ -1,5 +1,5 @@
 _repo: La-mirinda-historio-de-Petro-Schlemihl_63926
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Peter Schlemihls wundersame geschichte. Esperanto
 contributor:
   translator:
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '26720'
     url: http://www.gutenberg.org/2009/agents/26720
     wikipedia: http://eo.wikipedia.org/wiki/Eugen_W%C3%BCster
+covers:
+- cover_type: archival
+  image_path: 63926-h/images/cover.jpg
 creator:
   author:
     agent_name: Chamisso, Adelbert von
@@ -28,6 +31,8 @@ creator:
     - https://en.wikipedia.org/wiki/Adelbert_von_Chamisso
     - https://de.wikipedia.org/wiki/Adelbert_von_Chamisso
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63926#La-mirinda-historio-de-Petro-Schlemihl
 gutenberg_issued: '2020-12-01'
 gutenberg_type: Text
 identifiers:
